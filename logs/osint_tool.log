@@ -1,0 +1,7 @@
+2025-07-30 16:52:24,776 - INFO - Interrogation WHOIS de discord.com sur whois.verisign-grs.com
+2025-07-30 16:57:51,963 - INFO - Fetching page: https://discord.com
+2025-07-30 16:57:54,832 - INFO - Emails extraits: 1
+2025-07-30 17:01:07,757 - ERROR - Erreur résolution IP pour discord.com: module 'modules.dns' has no attribute 'resolver'
+2025-07-30 17:12:11,829 - INFO - Exécution traceroute : tracert -d 
+2025-07-30 17:12:11,871 - INFO - Exécution ping : ping -n 4 -w 2 
+2025-07-30 17:13:30,934 - INFO - Exécution traceroute : tracert -d 162.159.135.232
